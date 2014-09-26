@@ -51,6 +51,12 @@ public final class R {
         public static final int action_settings=0x7f050002;
         public static final int app_name=0x7f050000;
         public static final int btn_cadastro_cliente=0x7f050008;
+        public static final int dialog_confirm_title=0x7f05000f;
+        public static final int dialog_editar=0x7f05000a;
+        public static final int dialog_excluir=0x7f05000b;
+        public static final int dialog_no=0x7f05000e;
+        public static final int dialog_titulo=0x7f05000c;
+        public static final int dialog_yes=0x7f05000d;
         public static final int documento=0x7f050005;
         public static final int email=0x7f050007;
         public static final int hello_world=0x7f050001;
