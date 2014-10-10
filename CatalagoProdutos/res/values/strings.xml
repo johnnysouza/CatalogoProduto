@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatalagoProdutos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="codigo">Código:</string>
+    <string name="nome">Nome:</string>
+    <string name="preco">Preço:</string>
+    <string name="estoque">Estoque:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="title_activity_categoria">CategoriaActivity</string>
+    <string name="cor">Cor:</string>
+    <string name="addCategoria">Adicionar Categoria</string>
+
+</resources>
